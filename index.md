@@ -1,4 +1,5 @@
-[gimmicks:theme](readable)
+[gimmick:theme](readable)
+
 # Vim Script Fundamentals
 
 Create a wiki of files having new tasks
